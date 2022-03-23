@@ -1,2 +1,2 @@
-Circuit Diagram.png
+![](Circuit Diagram.png)
 
